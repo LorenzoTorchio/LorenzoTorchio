@@ -5,9 +5,9 @@
 
 - 🌱 Actualmente estudio **nodeJS**
 
-- 👨‍💻 Checkea mis trabajos [[-]]([-])
+- 👨‍💻 Checkea mis trabajos [[PortFolio]]([lorenzotorchio.github.io])
 
-- 📝 Comparto mis pensamientos en [https://mastodon.social/@8ritorneloz](https://mastodon.social/@8ritorneloz)
+- 📝 Comparto mis pensamientos en [mastodon](https://mastodon.social/@8ritorneloz)
 
 - 📫 Contactame por mail **lorenzotorchios@gmail.com**
 
