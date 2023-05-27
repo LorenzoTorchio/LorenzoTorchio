@@ -9,7 +9,7 @@
 
 - 📝 Comparto mis pensamientos en [Mastodon](https://mastodon.social/@8ritorneloz)
 
-- 📫 Contactame por <a href="mailto:lorenzotorchios@gmail.com/?Subject=Contacto%20desde%GitHub">Correo</a>
+- 📫 Contactame por [Correo](mailto:lorenzotorchios@gmail.com?subject="Contacto%20desde%20GitHub){:target="_blank"}
 
 - 💬 Chatea conmigo en [Discord](https://discord.gg/7B8fVgvdbu)
 
