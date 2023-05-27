@@ -1,27 +1,22 @@
 <h1 align="center">Hola 👋, Soy Lorenzo Torchio</h1>
 <h3 align="center">Desarrollador Entusiasta</h3>
 
-- 🔭 Actualmente estoy trabajando [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
+- 🔭 Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
 
 - 🌱 Actualmente estudio **nodeJS**
 
-- 👨‍💻 Checkea mis trabajos [[PortFolio]]([lorenzotorchio.github.io])
+- 👨‍💻 Checkea mis trabajos en mi [PortFolio]([lorenzotorchio.github.io])
 
-- 📝 Comparto mis pensamientos en [mastodon](https://mastodon.social/@8ritorneloz)
+- 📝 Comparto mis pensamientos en [Mastodon](https://mastodon.social/@8ritorneloz)
 
 - 📫 Contactame por mail **lorenzotorchios@gmail.com**
 
 - ⚡ Dato de color **tengo 3 gatos**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/8ritorneloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="8ritorneloz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21708745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21708745" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lorenzotorchios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lorenzotorchios" height="30" width="40" /></a>
-<a href="https://discord.gg/7B8fVgvdbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7B8fVgvdbu" height="30" width="40" /></a>
-</p>
+- 💬 Chatea conmigo [Discord](https://discord.gg/7B8fVgvdbu)
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Lenguajes y Herramientas</h3>
 <p align="left"> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
