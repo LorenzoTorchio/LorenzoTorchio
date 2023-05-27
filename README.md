@@ -39,4 +39,4 @@
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <h3 align="left">Support:</h3>
-<p><a href="https://cafecito.app/lochy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cafecito.app/lochy" /></a></p><br><br>
+<p><a href="https://cafecito.app/lochy"> <img align="left" src="https://lasveredascine.files.wordpress.com/2021/01/cafecito-logo.png" height="50" width="210" alt="https://cafecito.app/lochy" /></a></p><br><br>
