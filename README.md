@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/8ritorneloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="8ritorneloz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/239714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="239714" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21708745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21708745" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lorenzotorchios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lorenzotorchios" height="30" width="40" /></a>
 <a href="https://discord.gg/7B8fVgvdbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7B8fVgvdbu" height="30" width="40" /></a>
 </p>
@@ -39,4 +39,4 @@
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://cafecito.app/lochy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cafecito.app/lochy" /></a></p><br><br>
+<p><a href="https://cafecito.app/lochy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cafecito.app/lochy" /></a></p><br><br>
