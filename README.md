@@ -16,7 +16,7 @@
 - 💬 Chatea conmigo [Discord](https://discord.gg/7B8fVgvdbu)
 
 
-<h3 align="left">Lenguajes y Herramientas</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -33,5 +33,5 @@
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<h3 align="left">Support:</h3>
-<p><a href="https://cafecito.app/lochy"> <img align="left" src="https://lasveredascine.files.wordpress.com/2021/01/cafecito-logo.png" height="50" width="50" alt="https://cafecito.app/lochy" /></a></p><br><br>
+<h3 align="left">Apoyame:</h3>
+<p><a href="https://cafecito.app/lochy"> <img align="left" src="https://apkhanger.com/wp-content/uploads/2022/03/Cafecito-App-APK.png" height="50" width="50" alt="https://cafecito.app/lochy" /></a></p><br><br>
