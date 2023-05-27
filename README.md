@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estudio **NodeJS**
 
-- 👨‍💻 Checkea mis trabajos en mi [Portfolio]([lorenzotorchio.github.io])
+- 👨‍💻 Checkea mis trabajos en mi [Portfolio](https://lorenzotorchio.github.io/Portfolio/))
 
 - 📝 Comparto mis pensamientos en [Mastodon](https://mastodon.social/@8ritorneloz)
 
