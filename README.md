@@ -1,20 +1,19 @@
 <h1 align="center">Hola 👋, Soy Lorenzo Torchio</h1>
-<h3 align="center">Desarrollador Entusiasta</h3>
+<h3 align="center">Desarrollador Argentino</h3>
 
 - 🔭 Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
 
-- 🌱 Actualmente estudio **nodeJS**
+- 🌱 Actualmente estudio **NodeJS**
 
 - 👨‍💻 Checkea mis trabajos en mi [PortFolio]([lorenzotorchio.github.io])
 
 - 📝 Comparto mis pensamientos en [Mastodon](https://mastodon.social/@8ritorneloz)
 
-- 📫 Contactame por mail **lorenzotorchios@gmail.com**
+- 📫 Contactame por <a href="https://%22mailto:lorenzotorchios@gmail.com/?Subject=Contacto%20desde%GitHub%22">Correo</a>
+
+- 💬 Chatea conmigo en [Discord](https://discord.gg/7B8fVgvdbu)
 
 - ⚡ Dato de color **tengo 3 gatos**
-
-- 💬 Chatea conmigo [Discord](https://discord.gg/7B8fVgvdbu)
-
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
