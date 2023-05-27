@@ -13,9 +13,9 @@
 
 - 💬 Chatea conmigo en [Discord](https://discord.gg/7B8fVgvdbu)
 
-- ⚡ Dato de color **tengo 3 gatos**
-
 - 🗺️ Puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv) 
+
+- ⚡ Dato de color **tengo 3 gatos**
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
