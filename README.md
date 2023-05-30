@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Lorenzo Torchio</h1>
 <h3 align="center">Desarrollador Argentino</h3>
 
+![](https://komarev.com/ghpvc/?username=LorenzoTorchio)
+
 - 🔭 Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
 
 - 🌱 Actualmente estudio **NodeJS**
