@@ -11,9 +11,11 @@
 
 - 📫 Contactame por [Correo](mailto:lorenzotorchios@gmail.com?subject=Contacto%20desde%20GitHub)
 
-- 💭 Comparto lo que pienso por [Mastodon](https://mastodon.social/@8ritorneloz)
+- 💭 Comparto mis ideas en [Mastodon](https://mastodon.social/@8ritorneloz)
 
 - 🗺️ Tambien puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv)
+
+- 👋 Sos bienvenido en mi [Discord](https://discord.gg/7B8fVgvdbu)
 
 Herramientas:
 
