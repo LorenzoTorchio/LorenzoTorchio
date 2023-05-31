@@ -19,7 +19,7 @@ Herramientas:
 
 - 🧠 Refuerzo mis conocimientos con anotaciones usando [Obsidian](https://obsidian.md/)
 
-- <img src="https://imgur.com/3P8CLBf"> Por cierto, uso Arch.
+- <img src="https://imgur.com/a/fUqeW9N"> Por cierto, uso Arch.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
