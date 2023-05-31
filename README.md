@@ -19,7 +19,7 @@ Herramientas:
 
 - 🧠 Refuerzo mis conocimientos con anotaciones usando [Obsidian](https://obsidian.md/)
 
-- <img src="https://imgur.com/a/fUqeW9N" width="16" height="16"> Por cierto, uso Arch.
+- <img src="https://i.imgur.com/3P8CLBf.png" width="16" height="16"> Uso [arch linux](https://archlinux.org/) como sistema operativo.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
