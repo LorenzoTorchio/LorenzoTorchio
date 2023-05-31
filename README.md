@@ -9,13 +9,11 @@
 
 - 👨‍💻 Checkea mis trabajos en mi [Portfolio](https://lorenzotorchio.github.io/Portfolio/)
 
-- 📝 Comparto mis pensamientos en [Mastodon](https://mastodon.social/@8ritorneloz)
-
 - 📫 Contactame por [Correo](mailto:lorenzotorchios@gmail.com?subject=Contacto%20desde%20GitHub)
 
-- 💬 Chatea conmigo en [Discord](https://discord.gg/7B8fVgvdbu)
+- 💭 Comparto lo que pienso por [Mastodon](https://mastodon.social/@8ritorneloz)
 
-- 🗺️ Puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv) 
+- 🗺️ Tambien puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv)
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
