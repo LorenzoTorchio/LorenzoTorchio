@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=LorenzoTorchio)
 
-- 🔭 Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
+- ⚙️ Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
 
 - 🌱 Actualmente estudio **NodeJS**
 
@@ -14,6 +14,12 @@
 - 💭 Comparto lo que pienso por [Mastodon](https://mastodon.social/@8ritorneloz)
 
 - 🗺️ Tambien puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv)
+
+Herramientas:
+
+- 🧠 Refuerzo mis conocimientos con anotaciones usando [Obsidian](https://obsidian.md/)
+
+- <img src="https://imgur.com/3P8CLBf"> Por cierto, uso Arch.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
