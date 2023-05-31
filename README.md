@@ -5,7 +5,7 @@
 
 - ⚙️ Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
 
-- 🌱 Actualmente estudio **NodeJS**
+- 🧠 Actualmente estudio **NodeJS**
 
 - 👨‍💻 Checkea mis trabajos en mi [Portfolio](https://lorenzotorchio.github.io/Portfolio/)
 
