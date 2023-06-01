@@ -17,7 +17,7 @@
 
 - 👋 Sos bienvenido en mi [Discord](https://discord.gg/7B8fVgvdbu)
 
-Herramientas:
+<h3 align="left">Herramientas:</h3>
 
 - <img src="https://i.imgur.com/fBm8lOJ.png" width="16" height="16"> Editor de codigo: [Visual Studio Code](https://code.visualstudio.com/)
 
