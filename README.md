@@ -25,7 +25,7 @@ Herramientas:
 
 - <img src="https://i.imgur.com/D7nx9n5.png" width="16" height="16"> Sistema de notas: [Obsidian](https://obsidian.md/)
 
-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="16" height="16"/> Herramienta diseño de interfaz: [Figma](https://www.figma.com/)
+- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="16" height="16"/> Diseño de interfaz: [Figma](https://www.figma.com/)
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
