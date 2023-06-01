@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=LorenzoTorchio)
 
-- ⚙️ Actualmente estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
+- ⚙️ Estoy trabajando en un [Clon e-Commerce](https://github.com/LorenzoTorchio/CodoACodo/tree/main/Pagina-Funko)
 
-- 🧠 Actualmente estudio **NodeJS** y **Express**.
+- 🧠 Estoy estudiando **NodeJS** y **Express**.
 
 - 👨‍💻 Muestro mis trabajos en mi [Portfolio](https://lorenzotorchio.github.io/Portfolio/)
 
