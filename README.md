@@ -19,11 +19,11 @@
 
 Herramientas:
 
-- <img src="https://i.imgur.com/fBm8lOJ.png" width="16" height="16"> Uso como sistema de notas a [Obsidian](https://obsidian.md/)
-
 - <img src="https://i.imgur.com/fBm8lOJ.png" width="16" height="16"> Uso como editor de codigo a [Visual Studio Code](https://code.visualstudio.com/)
 
 - <img src="https://i.imgur.com/3P8CLBf.png" width="16" height="16"> Uso como sistema operativo a [Arch linux](https://archlinux.org/)
+
+- <img src="https://imgur.com/D7nx9n5" width="16" height="16"> Uso como sistema de notas a [Obsidian](https://obsidian.md/)
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
