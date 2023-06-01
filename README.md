@@ -21,8 +21,6 @@
 
 - <img src="https://i.imgur.com/fBm8lOJ.png" width="16" height="16"> Editor de codigo: [Visual Studio Code](https://code.visualstudio.com/)
 
-- <img src="https://i.imgur.com/3P8CLBf.png" width="16" height="16"> Sistema operativo: [Arch linux](https://archlinux.org/)
-
 - <img src="https://i.imgur.com/D7nx9n5.png" width="16" height="16"> Sistema de notas: [Obsidian](https://obsidian.md/)
 
 - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="16" height="16"/> Diseño de interfaz: [Figma](https://www.figma.com/)
