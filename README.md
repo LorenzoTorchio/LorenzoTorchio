@@ -43,11 +43,16 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" data-color-mode="dark"> <img src="https://i.imgur.com/c1CLSvE.png" alt="mysql" width="40" height="40"/> </a>
    </p>
 </p><br><br>
-
-<script>
-  const colorMode = localStorage.getItem('color-mode');
-  if (colorMode === 'dark') {
-    document.querySelector('img[data-color-mode="dark"]').style.display = 'inline';
-    document.querySelector('img[data-color-mode="light"]').style.display = 'none';
+<style>
+  @media (prefers-color-scheme: dark) {
+    .theme-icon.light {
+      display: none;
+    }
   }
-</script>
+
+  @media (prefers-color-scheme: light) {
+    .theme-icon.dark {
+      display: none;
+    }
+  }
+</style>
