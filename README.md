@@ -31,9 +31,9 @@
   <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/f55ec202-1146-49a8-8c82-f5ffad7af3c0" witdh="50" height="50">
   <img alt="linux">
 </picture>
-
+  
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/9127ca88-f81e-4994-bc80-8e503de9f3de" witdh="50" height="50">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/08a050be-0476-4b93-8dce-3b93c8a3d856" witdh="50" height="50">
     <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/6e91d756-c577-4203-b038-78a7473a9ada" witdh="50" height="50">
     <img alt="android">
   </picture>
