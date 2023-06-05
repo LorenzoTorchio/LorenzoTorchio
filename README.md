@@ -22,7 +22,7 @@
 
  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/6d436fc7-529a-4c69-a25d-c2814c8d89e5" witdh="50" height="50">
-    <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/0d271635-3a1c-4b64-90dd-2708d62a43d6" witdh="50" height="50">
+    <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/8acdd55d-4784-45e1-9022-c13af4c0927c" witdh="50" height="50">
     <img alt="windows">
  </picture>
   
@@ -31,13 +31,12 @@
   <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/f55ec202-1146-49a8-8c82-f5ffad7af3c0" witdh="50" height="50">
   <img alt="linux">
 </picture>
-  
+
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/9127ca88-f81e-4994-bc80-8e503de9f3de" witdh="50" height="50">
-    <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/dbcccd5f-44a2-4727-a897-f20553718dac" witdh="50" height="50">
+    <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/6e91d756-c577-4203-b038-78a7473a9ada" witdh="50" height="50">
     <img alt="android">
   </picture>
-
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/4d3d1a82-d56d-4d3d-964a-aaaf416d8021" witdh="50" height="50">
@@ -85,7 +84,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/bc19489f-47c7-4bca-8a5b-8a8e49cf0983" witdh="50" height="50">
-  <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/3703233f-b064-454a-b5f6-30900152a14c" witdh="50" height="50">
+  <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/2589ffbb-6ec4-4ac0-aedc-9a72b9bd0ad5" witdh="50" height="50">
   <img alt="node">
 </picture>
 
