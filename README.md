@@ -56,12 +56,6 @@
   <img alt="markdown">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/7304f5b7-b99f-4cec-b236-65ce6c55d175" witdh="50" height="50">
-  <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/2c1f20f8-d566-4aad-a3c2-afa6027e6140" witdh="50" height="50">
-  <img alt="figma">
-</picture>
-
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/af3250af-7a16-42ae-a97c-21b0418bb854" witdh="50" height="50">
