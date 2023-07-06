@@ -51,13 +51,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/701070c4-8564-4322-ab92-f84045b8790d" witdh="50" height="50">
-  <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/7aec2a19-3963-408a-ac55-d592727ef7d6" witdh="50" height="50">
-  <img alt="markdown">
-</picture>
-
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/af3250af-7a16-42ae-a97c-21b0418bb854" witdh="50" height="50">
   <source media="(prefers-color-scheme: dark )" srcset="https://github.com/LorenzoTorchio/LorenzoTorchio/assets/71746695/c8351ed3-d3ae-42da-9c21-ae14ea8f36fd" witdh="50" height="50">
   <img alt="html">
