@@ -7,7 +7,7 @@
 
 -  Contactame: lorenzotorchios@gmail.com
 
--  Tambien puedo hablar <a href="#" onclick='window.open("https://www.efset.org/cert/Pie4pv");return false;'>Ingles</a>
+-  I can also speak (English)[https://www.efset.org/cert/Pie4pv] 
 
 <h3 align="left">Herramientas - Tecnologias:</h3>
 <p align="left"> 
