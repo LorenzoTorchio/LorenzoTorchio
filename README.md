@@ -7,7 +7,7 @@
 
 -  Contactame por [Correo](mailto:lorenzotorchios@gmail.com?subject=Contacto%20desde%20GitHub) / lorenzotorchios@gmail.com
 
--  Tambien puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv)
+-  Tambien puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv){:target=”_blank”}
 
 <h3 align="left">Herramientas - Tecnologias:</h3>
 <p align="left"> 
