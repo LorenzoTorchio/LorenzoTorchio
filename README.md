@@ -5,9 +5,9 @@
 
 -  Conocé mis trabajos en mi [Portfolio](https://lorenzotorchio.github.io/Portfolio/)
 
--  Contactame por [Correo](mailto:lorenzotorchios@gmail.com?subject=Contacto%20desde%20GitHub) / lorenzotorchios@gmail.com
+-  Contactame: lorenzotorchios@gmail.com
 
--  Tambien puedo hablar [Ingles](https://www.efset.org/cert/Pie4pv){:target=”_blank”}
+-  Tambien puedo hablar <a href="https://www.efset.org/cert/Pie4pv" target="_blank"> Ingles </a> 
 
 <h3 align="left">Herramientas - Tecnologias:</h3>
 <p align="left"> 
