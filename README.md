@@ -10,7 +10,7 @@
 -  tambien puedo hablar <a href="https://www.efset.org/cert/Pie4pv" target="_blank">Ingles </a>
 
 <h3 align="left">Herramientas - Tecnologias:</h3>
-<p align="left"> 
+<div align="left"> 
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="" witdh="50" height="50">
@@ -88,5 +88,6 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LorenzoTorchio/LorenzoTorchio/main/tw-light-mode-icon.png" witdh="50" height="50">
   <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/LorenzoTorchio/LorenzoTorchio/main/tw-dark-mode-icon.png" witdh="50" height="50">
-
-</p>
+  <img alt"tailwind">
+</picture>
+</div>
