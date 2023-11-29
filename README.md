@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Lorenzo Torchio</h1>
+<h1 align="center">Lorenzo Torchio</h1>
 <h3 align="center">Desarrollador Argentino</h3>
 
 ![](https://komarev.com/ghpvc/?username=LorenzoTorchio)
