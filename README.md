@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=LorenzoTorchio)
 
--  Conocé mis trabajos en mi [Portfolio](https://lorenzotorchio.github.io/Portfolio/)
-
 -  Contactame: lorenzotorchios@gmail.com
 
 -  tambien puedo hablar <a href="https://www.efset.org/cert/Pie4pv" target="_blank">Ingles </a>
