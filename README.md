@@ -84,8 +84,5 @@
 </picture>  
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LorenzoTorchio/LorenzoTorchio/main/tw-light-mode-icon.png" witdh="50" height="50">
-  <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/LorenzoTorchio/LorenzoTorchio/main/tw-dark-mode-icon.png" witdh="50" height="50">
-  <img alt"tailwind">
 </picture>
 </div>
